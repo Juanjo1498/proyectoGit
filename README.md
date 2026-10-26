@@ -1,4 +1,3 @@
-AppVersion=3
-
+AppVersion=0
 Nueva feature
 nueva funcionalidad
