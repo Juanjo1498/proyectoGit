@@ -1,3 +1,4 @@
+AppVersion=2
 
 
 
